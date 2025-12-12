@@ -15,70 +15,70 @@
             "name": "Verification of Bernoulli's equation",
             "short-name": "verification-bernoullis-equation",
             "repo": "https://github.com/virtual-labs/exp-verification-bernoullis-principle-iitkgp",
-            "tag": "1.0.0",
+            "tag": "v1.0.0",
             "deploy": true
         },
         {
             "name": "Pressure distribution over a circular cylinder",
             "short-name": "pressure-distribution-circular-cylinder",
             "repo": "https://github.com/virtual-labs/exp-pressure-distribution-over-circular-cylinder-iitkgp",
-            "tag": "1.0.0",
+            "tag": "v1.0.0",
             "deploy": true
         },
         {
             "name": "Flow characterization over airfoil NACA 0015",
             "short-name": "flow-characterization-airfoil-naca0015",
             "repo": "https://github.com/virtual-labs/exp-flow-characterization-over-airfoil-naca0015-iitkgp",
-            "tag": "1.0.0",
+            "tag": "v1.0.0",
             "deploy": true
         },
         {
             "name": "Flow over a delta wing",
             "short-name": "flow-over-delta-wing",
             "repo": "https://github.com/virtual-labs/exp-flow-over-delta-wing-iitkgp",
-            "tag": "1.0.0",
+            "tag": "v1.0.0",
             "deploy": true
         },
         {
             "name": "Boundary layer over a flat plate",
             "short-name": "boundary-layer-flat-plate",
             "repo": "https://github.com/virtual-labs/exp-boundary-layer-over-flat-plate-iitkgp",
-            "tag": "1.0.0",
+            "tag": "v1.0.0",
             "deploy": true
         },
         {
             "name": "Flow visualization",
             "short-name": "flow-visualization",
             "repo": "https://github.com/virtual-labs/exp-flow-visualization-iitkgp",
-            "tag": "1.0.0",
+            "tag": "v1.0.0",
             "deploy": true
         },
         {
             "name": "Particle Image Velocimetry",
             "short-name": "particle-image-velocimetry",
             "repo": "https://github.com/virtual-labs/exp-particle-image-velocimetry-iitkgp",
-            "tag": "1.0.0",
+            "tag": "v1.0.0",
             "deploy": true
         },
         {
             "name": "Flow visualization on Laminar Flow Table",
             "short-name": "flow-visualization-laminar-flow-table",
             "repo": "https://github.com/virtual-labs/exp-flow-visualization-laminar-flow-table-iitkgp",
-            "tag": "1.0.0",
+            "tag": "v1.0.0",
             "deploy": true
         },
         {
             "name": "Surface pressure distribution over a delta wing",
             "short-name": "surface-pressure-distribution-delta-wing",
             "repo": "https://github.com/virtual-labs/exp-surface-pressure-distribution-over-delta-wing-iitkgp",
-            "tag": "1.0.0",
+            "tag": "v1.0.0",
             "deploy": true
         },
         {
             "name": "Schlierein imaging of flow around different bodies in supersonic flow",
             "short-name": "schlierein-imaging-supersonic-flow",
             "repo": "https://github.com/virtual-labs/exp-schlierein-imaging-flow-around-different-bodies-supersonic-flow-iitkgp",
-            "tag": "1.0.0",
+            "tag": "v1.0.0",
             "deploy": true
         }
     ],
