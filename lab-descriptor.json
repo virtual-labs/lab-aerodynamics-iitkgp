@@ -22,7 +22,7 @@
             "name": "Pressure distribution over a circular cylinder",
             "short-name": "pressure-distribution-circular-cylinder",
             "repo": "https://github.com/virtual-labs/exp-pressure-distribution-over-circular-cylinder-iitkgp",
-            "tag": "v1.0.0",
+            "tag": "v2.0.0",
             "deploy": true
         },
         {
